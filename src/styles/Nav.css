@@ -1,0 +1,57 @@
+.nav {
+  position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+  display: flex; justify-content: space-between; align-items: center;
+  padding: 1.2rem 5%;
+  background: var(--nav-bg);
+  backdrop-filter: blur(16px);
+  border-bottom: 1px solid var(--border);
+  transition: background 0.3s, border-color 0.3s;
+}
+.nav-logo {
+  font-family: var(--font-display);
+  font-size: 1.3rem; font-weight: 700;
+  background: linear-gradient(135deg, var(--accent-light), var(--green));
+  -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-decoration: none;
+  cursor: pointer;
+}
+.nav-links { display: flex; gap: 2rem; list-style: none; }
+.nav-links button {
+  color: var(--text-muted); background: none; border: none; cursor: pointer;
+  font-size: 0.9rem; font-weight: 500; letter-spacing: 0.05em;
+  font-family: var(--font-body);
+  transition: color 0.2s;
+}
+.nav-links button:hover { color: var(--accent-light); }
+.nav-cta {
+  padding: 0.6rem 1.4rem !important; font-size: 0.85rem !important;
+}
+
+/* TOGGLE ESCURO/CLARO */
+.theme-toggle {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 0.4rem 0.9rem;
+  cursor: pointer;
+  display: flex; align-items: center; gap: 0.5rem;
+  font-size: 0.82rem; font-weight: 600;
+  color: var(--text-muted);
+  font-family: var(--font-body);
+  transition: background 0.2s, border-color 0.2s, color 0.2s, transform 0.15s;
+  white-space: nowrap;
+}
+.theme-toggle:hover {
+  border-color: var(--accent);
+  color: var(--accent-light);
+  transform: scale(1.05);
+}
+.theme-toggle-icon { font-size: 1rem; line-height: 1; }
+
+.nav-right { display: flex; align-items: center; gap: 0.8rem; }
+
+@media (max-width: 768px) {
+  .nav-links { display: none; }
+  .theme-toggle span:last-child { display: none; }
+}
