@@ -51,7 +51,7 @@ src/
 * To-Do List Interativa
 * Portal Runner – Aventura Multidimensional
 
-## 👩‍💻 Sobre Mim
+## 👩🏾‍💻 Sobre Mim
 
 Graduada em Análise e Desenvolvimento de Sistemas pela UNIFESO, com foco em Desenvolvimento Front-End e interesse em criar interfaces modernas, acessíveis e funcionais.
 
@@ -63,4 +63,4 @@ Graduada em Análise e Desenvolvimento de Sistemas pela UNIFESO, com foco em Des
 
 ---
 
-Desenvolvido com React.js e muito ☕ por Tamires Guedes.
+Desenvolvido por Tamires Guedes.
