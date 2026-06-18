@@ -8,7 +8,7 @@ Portfólio profissional desenvolvido para apresentar minha trajetória, experiê
 
 ## 📸 Preview
 
-![Portfólio] (assets/portfólio.png)
+![Portfólio](./src/assets/portfolio.png)
 
 ## ✨ Funcionalidades
 
@@ -64,6 +64,3 @@ Graduada em Análise e Desenvolvimento de Sistemas pela UNIFESO, com foco em Des
 ---
 
 Desenvolvido com React.js e muito ☕ por Tamires Guedes.
-
-```
-
