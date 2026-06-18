@@ -1,31 +1,3 @@
-### Texto para publicação no LinkedIn
-
-🚀 **Meu portfólio está no ar!**
-
-Após concluir minha formação em Análise e Desenvolvimento de Sistemas, desenvolvi meu portfólio pessoal para reunir minha trajetória, projetos, habilidades e experiências na área de tecnologia.
-
-O projeto foi desenvolvido utilizando **React.js, JavaScript, HTML, CSS e Vite**, com foco em responsividade, experiência do usuário e organização das informações.
-
-Nele você encontrará:
-✅ Minha trajetória profissional e acadêmica
-✅ Cursos e certificações
-✅ Habilidades técnicas e comportamentais
-✅ Projetos desenvolvidos com React.js, FastAPI, JavaScript e outras tecnologias
-✅ Formas de contato e links para GitHub e LinkedIn
-
-🔗 Portfólio: [tamires-guedes-portfolio.vercel.app](https://tamires-guedes-portfolio.vercel.app/?utm_source=chatgpt.com)
-
-Estou aberta a oportunidades para atuar como **Desenvolvedora Front-End**, contribuindo com aprendizado contínuo, dedicação e paixão por tecnologia.
-
-Feedbacks são muito bem-vindos! 😊
-
-#ReactJS #JavaScript #Frontend #DesenvolvimentoWeb #Portfólio #Tech #GitHub #Vite #OpenToWork
-
----
-
-# README.md
-
-````md
 # 💜 Portfólio - Tamires Guedes
 
 Portfólio profissional desenvolvido para apresentar minha trajetória, experiências, habilidades técnicas, certificações e projetos na área de desenvolvimento web.
