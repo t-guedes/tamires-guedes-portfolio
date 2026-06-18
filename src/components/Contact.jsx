@@ -14,10 +14,10 @@ const contacts = [
   },
   {
     icon: <FaWhatsapp />,
-    label: "(21) 99434-7362",
+    label: "Contato direto",
     sublabel: "WhatsApp",
-    href: "https://wa.me/5521994347362",
-    btn: "Abrir WhatsApp",
+    href: "https://wa.me/",
+    btn: "Conversar",
   },
   {
     icon: <FaLinkedin />,
@@ -44,7 +44,8 @@ export function Contact() {
         <h2 className="section-title">Vamos trabalhar juntos?</h2>
 
         <p className="section-desc">
-         Estou aberta a oportunidades de trabalho, projetos freelance, colaborações e conversas sobre desenvolvimento front-end e tecnologia.
+          Estou aberta a oportunidades de trabalho, projetos freelance,
+          colaborações e conversas sobre desenvolvimento front-end e tecnologia.
         </p>
 
         <div className="contact-cards">
