@@ -1,7 +1,7 @@
 export const skillsData = [
   {
     cat: "Linguagens",
-    tags: ["HTML5", "CSS3", "JavaScript", "Python (básico)"],
+    tags: ["HTML5", "CSS3", "JavaScript", "TypeScript","Python"],
   },
   {
     cat: "Frameworks & Bibliotecas",
@@ -13,7 +13,7 @@ export const skillsData = [
   },
   {
     cat: "IDEs & Ferramentas",
-    tags: ["VS Code", "PyCharm", "Power BI (básico)", "Pacote Office"],
+    tags: ["VS Code", "PyCharm", "Power BI", "Pacote Office"],
   },
   {
     cat: "Banco de Dados",

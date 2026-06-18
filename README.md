@@ -1,56 +1,97 @@
-# 🌟 Portfólio — Tamires Guedes
-**React + JavaScript + Vite**
+### Texto para publicação no LinkedIn
 
-## 📁 Estrutura de arquivos
+🚀 **Meu portfólio está no ar!**
 
-```
+Após concluir minha formação em Análise e Desenvolvimento de Sistemas, desenvolvi meu portfólio pessoal para reunir minha trajetória, projetos, habilidades e experiências na área de tecnologia.
+
+O projeto foi desenvolvido utilizando **React.js, JavaScript, HTML, CSS e Vite**, com foco em responsividade, experiência do usuário e organização das informações.
+
+Nele você encontrará:
+✅ Minha trajetória profissional e acadêmica
+✅ Cursos e certificações
+✅ Habilidades técnicas e comportamentais
+✅ Projetos desenvolvidos com React.js, FastAPI, JavaScript e outras tecnologias
+✅ Formas de contato e links para GitHub e LinkedIn
+
+🔗 Portfólio: [tamires-guedes-portfolio.vercel.app](https://tamires-guedes-portfolio.vercel.app/?utm_source=chatgpt.com)
+
+Estou aberta a oportunidades para atuar como **Desenvolvedora Front-End**, contribuindo com aprendizado contínuo, dedicação e paixão por tecnologia.
+
+Feedbacks são muito bem-vindos! 😊
+
+#ReactJS #JavaScript #Frontend #DesenvolvimentoWeb #Portfólio #Tech #GitHub #Vite #OpenToWork
+
+---
+
+# README.md
+
+````md
+# 💜 Portfólio - Tamires Guedes
+
+Portfólio profissional desenvolvido para apresentar minha trajetória, experiências, habilidades técnicas, certificações e projetos na área de desenvolvimento web.
+
+## 🚀 Acesse Online
+
+🌐 https://tamires-guedes-portfolio.vercel.app/
+
+## 📸 Preview
+
+![Portfólio] (assets/portfólio.png)
+
+## ✨ Funcionalidades
+
+- Tema claro e escuro
+- Layout responsivo
+- Apresentação profissional
+- Seção Sobre Mim
+- Habilidades técnicas
+- Experiência profissional
+- Cursos e certificações
+- Projetos desenvolvidos
+- Contato direto via e-mail, WhatsApp, LinkedIn e GitHub
+
+## 🛠️ Tecnologias Utilizadas
+
+- React.js
+- JavaScript
+- Vite
+- HTML5
+- CSS3
+
+## 📂 Estrutura do Projeto
+
+```text
 src/
+├── assets/
 ├── components/
-│   ├── Nav.jsx          # Navegação fixa com scroll suave
-│   ├── Hero.jsx         # Seção inicial com upload de foto
-│   ├── About.jsx        # Sobre mim + estatísticas
-│   ├── Skills.jsx       # Habilidades técnicas
-│   ├── Experience.jsx   # Experiência profissional (timeline)
-│   ├── Courses.jsx      # Cursos & Certificações com filtros
-│   ├── Projects.jsx     # Projetos selecionados
-│   ├── Contact.jsx      # Formulário de contato real
-│   ├── Footer.jsx       # Rodapé
-│   └── FadeIn.jsx       # Animação de entrada por scroll
 ├── data/
-│   └── portfolio.js     # ✏️  EDITE AQUI seus dados
 ├── hooks/
-│   └── useFadeIn.js     # Hook de animação
 ├── styles/
-│   ├── globals.css
-│   ├── Nav.css
-│   ├── Hero.css
-│   ├── About.css
-│   ├── Skills.css
-│   ├── Experience.css
-│   ├── Courses.css
-│   ├── Projects.css
-│   └── Contact.css
-├── App.jsx              # Orquestração + refs de scroll
-└── main.jsx             # Entry point
+├── App.jsx
+└── main.jsx
+````
+
+## 📌 Principais Projetos
+
+* Sistema de Gestão de Clientes e Tickets
+* Terê Verde Online
+* Clone da Página Inicial do Instagram
+* To-Do List Interativa
+* Portal Runner – Aventura Multidimensional
+
+## 👩‍💻 Sobre Mim
+
+Graduada em Análise e Desenvolvimento de Sistemas pela UNIFESO, com foco em Desenvolvimento Front-End e interesse em criar interfaces modernas, acessíveis e funcionais.
+
+## 🔗 Contato
+
+* LinkedIn: [https://linkedin.com/in/t-guedes](https://linkedin.com/in/t-guedes)
+* GitHub: [https://github.com/t-guedes](https://github.com/t-guedes)
+* E-mail: [tamiresguedesb@gmail.com](mailto:tamiresguedesb@gmail.com)
+
+---
+
+Desenvolvido com React.js e muito ☕ por Tamires Guedes.
+
 ```
 
-## 🚀 Como rodar
-
-```bash
-npm install
-npm run dev
-```
-## ✏️ Editar conteúdo
-
-Tudo em **`src/data/portfolio.js`**:
-- `skillsData` — habilidades
-- `experienceData` — experiências
-- `coursesData` — cursos e certificações
-- `projectsData` — projetos (atualize `demo` e `code` com seus links)
-- `contactInfo` — contatos
-
-## 🛠️ Build para produção
-
-```bash
-npm run build
-```

@@ -49,8 +49,8 @@ export function About() {
 
             <p>
               Minha base técnica foi construída por meio da graduação e de
-              projetos práticos utilizando React.js, HTML, CSS, JavaScript,
-              Python e integração com APIs utilizando FastAPI. Sou uma
+              projetos práticos utilizando React.js, HTML, CSS, JavaScript, TypeScript,
+              Python e integração com APIs. Sou uma
               profissional proativa, organizada e com grande facilidade para
               aprender novas tecnologias e solucionar problemas.
             </p>
