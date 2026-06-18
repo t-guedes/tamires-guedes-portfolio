@@ -111,7 +111,7 @@ export const coursesData = [
 
 export const contactInfo = [
   { icon: "📧", label: "tamiresguedesb@gmail.com", href: "mailto:tamiresguedesb@gmail.com" },
-  { icon: "📱", label: "(21) 99434-7362", href: "tel:+5521994347362" },
+  { icon: "📱", label: "", href: "tel:" },
   { icon: "💼", label: "linkedin.com/in/t-guedes", href: "https://linkedin.com/in/t-guedes" },
   { icon: "🐙", label: "github.com/t-guedes", href: "https://github.com/t-guedes" },
 ];
